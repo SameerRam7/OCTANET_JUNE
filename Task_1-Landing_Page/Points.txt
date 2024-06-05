@@ -1,0 +1,3 @@
+*First thing to setup is the whole background color, minimum height according to screen, padding in x and y axis, flex, gap in [container or div inside which Header,Body,Footer is placed] 
+
+* 
